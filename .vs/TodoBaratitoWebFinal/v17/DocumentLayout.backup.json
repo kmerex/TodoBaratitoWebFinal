@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|c:\\users\\yury_\\onedrive\\desktop\\verano-2025\\desarrollo de aplicaciones i\\laboratorios\\laboratorioweb\\todobaratitowebfinal\\pe.com.todobaratito.ui\\plantillas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|solutionrelative:pe.com.todobaratito.ui\\plantillas\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|solutionrelative:pe.com.todobaratito.ui\\frmcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|c:\\users\\yury_\\onedrive\\desktop\\verano-2025\\desarrollo de aplicaciones i\\laboratorios\\laboratorioweb\\todobaratitowebfinal\\pe.com.todobaratito.ui\\frmempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|solutionrelative:pe.com.todobaratito.ui\\frmempleado.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|solutionrelative:pe.com.todobaratito.ui\\frmcliente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|solutionrelative:pe.com.todobaratito.ui\\frmcliente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|solutionrelative:pe.com.todobaratito.ui\\frmempleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74AFBD7A-F920-448A-8443-8EAD111ACD56}|pe.com.todobaratito.ui\\pe.com.todobaratito.ui.csproj|solutionrelative:pe.com.todobaratito.ui\\frmproducto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\plantillas\\Site1.Master",
+              "RelativeDocumentMoniker": "pe.com.todobaratito.ui\\plantillas\\Site1.Master",
+              "ToolTip": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\plantillas\\Site1.Master",
+              "RelativeToolTip": "pe.com.todobaratito.ui\\plantillas\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-18T13:55:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEmpleado.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmEmpleado.aspx.cs",
+              "RelativeDocumentMoniker": "pe.com.todobaratito.ui\\frmEmpleado.aspx.cs",
+              "ToolTip": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmEmpleado.aspx.cs",
+              "RelativeToolTip": "pe.com.todobaratito.ui\\frmEmpleado.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:23:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCategoria.aspx",
+              "DocumentMoniker": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmCategoria.aspx",
+              "RelativeDocumentMoniker": "pe.com.todobaratito.ui\\frmCategoria.aspx",
+              "ToolTip": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmCategoria.aspx",
+              "RelativeToolTip": "pe.com.todobaratito.ui\\frmCategoria.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T22:20:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCliente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmCliente.aspx.cs",
+              "RelativeDocumentMoniker": "pe.com.todobaratito.ui\\frmCliente.aspx.cs",
+              "ToolTip": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmCliente.aspx.cs",
+              "RelativeToolTip": "pe.com.todobaratito.ui\\frmCliente.aspx.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAAAHMBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:35:26.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEmpleado.aspx",
+              "DocumentMoniker": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmEmpleado.aspx",
+              "RelativeDocumentMoniker": "pe.com.todobaratito.ui\\frmEmpleado.aspx",
+              "ToolTip": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmEmpleado.aspx",
+              "RelativeToolTip": "pe.com.todobaratito.ui\\frmEmpleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T04:19:00.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCliente.aspx",
+              "DocumentMoniker": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmCliente.aspx",
+              "RelativeDocumentMoniker": "pe.com.todobaratito.ui\\frmCliente.aspx",
+              "ToolTip": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmCliente.aspx",
+              "RelativeToolTip": "pe.com.todobaratito.ui\\frmCliente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T03:35:45.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProducto.aspx",
+              "DocumentMoniker": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmProducto.aspx",
+              "RelativeDocumentMoniker": "pe.com.todobaratito.ui\\frmProducto.aspx",
+              "ToolTip": "C:\\Users\\yury_\\OneDrive\\Desktop\\Verano-2025\\Desarrollo de Aplicaciones I\\Laboratorios\\LaboratorioWeb\\TodoBaratitoWebFinal\\pe.com.todobaratito.ui\\frmProducto.aspx",
+              "RelativeToolTip": "pe.com.todobaratito.ui\\frmProducto.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T03:28:02.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

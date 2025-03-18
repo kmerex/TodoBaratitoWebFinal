@@ -1,0 +1,6 @@
+C:\Users\yury_\OneDrive\Desktop\Verano-2025\Desarrollo de Aplicaciones I\Laboratorios\LaboratorioWeb\TodoBaratitoWebFinal\pe.com.todobaratito.bo\bin\Debug\pe.com.todobaratito.bo.dll
+C:\Users\yury_\OneDrive\Desktop\Verano-2025\Desarrollo de Aplicaciones I\Laboratorios\LaboratorioWeb\TodoBaratitoWebFinal\pe.com.todobaratito.bo\bin\Debug\pe.com.todobaratito.bo.pdb
+C:\Users\yury_\OneDrive\Desktop\Verano-2025\Desarrollo de Aplicaciones I\Laboratorios\LaboratorioWeb\TodoBaratitoWebFinal\pe.com.todobaratito.bo\obj\Debug\pe.com.todobaratito.bo.csproj.AssemblyReference.cache
+C:\Users\yury_\OneDrive\Desktop\Verano-2025\Desarrollo de Aplicaciones I\Laboratorios\LaboratorioWeb\TodoBaratitoWebFinal\pe.com.todobaratito.bo\obj\Debug\pe.com.todobaratito.bo.csproj.CoreCompileInputs.cache
+C:\Users\yury_\OneDrive\Desktop\Verano-2025\Desarrollo de Aplicaciones I\Laboratorios\LaboratorioWeb\TodoBaratitoWebFinal\pe.com.todobaratito.bo\obj\Debug\pe.com.todobaratito.bo.dll
+C:\Users\yury_\OneDrive\Desktop\Verano-2025\Desarrollo de Aplicaciones I\Laboratorios\LaboratorioWeb\TodoBaratitoWebFinal\pe.com.todobaratito.bo\obj\Debug\pe.com.todobaratito.bo.pdb

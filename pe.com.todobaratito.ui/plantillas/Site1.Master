@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="pe.com.todobaratito.ui.plantillas.Site1" %>
+
+<!DOCTYPE html>
+<html lang="es">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Examen Final</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <form id="form1" runat="server">
+        <%--inicio barra de menu--%>
+        <nav class="navbar bg-dark navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+            <div class="container-fluid">
+                <asp:HyperLink ID="hplTitulo" runat="server" CssClass="navbar-brand" NavigateUrl="~/frmMenuPrincipal.aspx">Todo Baratito</asp:HyperLink>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <asp:HyperLink ID="hplInicio" runat="server" CssClass="nav-link active" NavigateUrl="~/frmMenuPrincipal.aspx">Inicio</asp:HyperLink>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Archivo
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <asp:Button ID="btnCerrarSesion" runat="server" Text="Cerrar Sesion" CssClass="dropdown-item"/>
+                                </li>
+                                <li>
+                                    <asp:Button ID="btnSalir" runat="server" Text="Salir" CssClass="dropdown-item"/>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mantenimiento Simple
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <asp:HyperLink ID="hplCategoria" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmCategoria.aspx">Categoria</asp:HyperLink>
+                                </li>
+                                <li><asp:HyperLink ID="hplMarca" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmMarca.aspx">Marca</asp:HyperLink></li>
+                                <li><asp:HyperLink ID="hplDistrito" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmDistrito.aspx">Distrito</asp:HyperLink></li>
+                                <li><asp:HyperLink ID="hplRol" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmRol.aspx">Rol</asp:HyperLink></li>
+                                <li><asp:HyperLink ID="hplTipoDocumento" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmTipoDocumento.aspx">Tipo de Documento</asp:HyperLink></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mantenimiento Doble
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <asp:HyperLink ID="hplProducto" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmProducto.aspx">Producto</asp:HyperLink>
+
+                                </li>
+                                <li>
+                                    <asp:HyperLink ID="hplEmpleado" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmEmpleado.aspx">Empleado</asp:HyperLink>
+
+                                </li>
+                                <li>
+                                    <asp:HyperLink ID="hplCliente" runat="server" CssClass="dropdown-item" NavigateUrl="~/frmCliente.aspx">Cliente</asp:HyperLink>
+
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <%--fin barra de menu--%>
+        <div class="mb-3"></div>
+        <%--esta es la seccion editable de la pagina maestra--%>
+        
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </form>
+        <%--fin de la seccion editable--%>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
