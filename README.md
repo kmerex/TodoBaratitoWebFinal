@@ -30,5 +30,5 @@ Este es un proyecto en **ASP.NET Web Forms** que utiliza **Bootstrap 5** para su
 ## 🛠️ Instalación y Configuración  
 1. **Clonar el repositorio**  
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/kmerex/TodoBaratitoWebFinal.git
 ![image](https://github.com/user-attachments/assets/adf0735b-cde8-488c-a46b-6d59c76dd316)
